@@ -37,4 +37,4 @@
 
 ### Remote API endpoint -> [https://supersportwagen.herokuapp.com/graphql](https://supersportwagen.herokuapp.com/graphql)
 
-Author: Luis Alvarez. April, 2021
+
